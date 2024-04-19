@@ -267,3 +267,5 @@ if __name__ == "__main__":
             print("Somthing Error :(")
     except ValueError:
         print("Somthing Error Plese Try Again :(")
+        
+# pyinstaller <FILENAME>.py --onefile
